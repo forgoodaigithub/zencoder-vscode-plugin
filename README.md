@@ -1,0 +1,1 @@
+# zencoder-vscode-plugin
