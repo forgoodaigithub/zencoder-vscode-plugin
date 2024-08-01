@@ -26,6 +26,12 @@ Unit test generation is a critical part of our code generation pipeline, ensurin
 
 Writing docstrings is often an overlooked but essential task in software development, especially in large codebases. Docstrings play a crucial role in ensuring smooth knowledge transition between team members, particularly new hires. By automating docstring generation, Zencoder allows developers to focus on high-value tasks.
 
+### Chat
+
+![Chat](assets/Zencoder-Chat.gif)
+
+Chat with an AI that understands your current file context. Ask questions, request explanations, or seek advice about your code by opening the chat panel and typing your query.
+
 ## Installation and Configuration
 
 1. **Open Visual Studio Code**  
