@@ -32,6 +32,12 @@ Writing docstrings is often an overlooked but essential task in software develop
 
 Chat with an AI that understands your current file context. Ask questions, request explanations, or seek advice about your code by opening the chat panel and typing your query.
 
+### Code Completion
+
+![Code_Completion](assets/Zencoder-Code-Completion.gif)
+
+Finish your thoughts with real-time suggestions as you write the code.
+
 ## Installation and Configuration
 
 1. **Open Visual Studio Code**  
