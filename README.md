@@ -64,13 +64,13 @@ Finish your thoughts with real-time suggestions as you write the code.
 ## Support, Feedback, and Community
 
 ### Knowledge Base
-For detailed guides, troubleshooting articles, and FAQs, visit our [Knowledge Base](https://46014728.hs-sites.com/). It’s designed to help you navigate the features of Zencoder and optimize your usage.
+For detailed guides, troubleshooting articles, and FAQs, visit our [Knowledge Base](https://zencoder.ai/knowledgebase). It’s designed to help you navigate the features of Zencoder and optimize your usage.
 
 ### Community Forum
-Connect with other Zencoder users, share experiences, and discuss best practices in our [Community Forum](https://46014728.hs-sites.com/). It’s a great place to learn from others and contribute your insights.
+Connect with other Zencoder users, share experiences, and discuss best practices in our [Community Forum]([https://46014728.hs-sites.com/](https://zencoder.ai/knowledgebase/zencoder-community-forums)). It’s a great place to learn from others and contribute your insights.
 
 ### Feedback
-We’d love to get your help in making Zencoder better! If you have feedback or encounter any problems, please reach out on our [Feedback form](https://46014728.hs-sites.com/).
+We’d love to get your help in making Zencoder better! If you have feedback or encounter any problems, please reach out on our [Feedback form]([https://46014728.hs-sites.com/](https://zencoder.ai/product-feedback)).
 
 ### Helpful Links
 - [Discord community](https://discord.gg/YjNYBHg8Vb)
